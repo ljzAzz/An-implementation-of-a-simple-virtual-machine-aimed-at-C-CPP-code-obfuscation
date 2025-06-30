@@ -1,0 +1,12 @@
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/intrinsics_gen.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/omp_gen.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/acc_gen.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/clang-tablegen-targets.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/Xlang.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/edit_cache.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/rebuild_cache.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/list_install_components.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/install.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/install/local.dir
+/home/ljz/XXXVMP/XXXClang/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/usr/bin/clang++-18 -fPIC -shared -Wl,-soname,libGenStubPlugin.so -o libGenStubPlugin.so CMakeFiles/GenStubPlugin.dir/GenStub.cpp.o 

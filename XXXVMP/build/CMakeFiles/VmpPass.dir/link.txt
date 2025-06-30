@@ -1,0 +1,1 @@
+/usr/bin/clang++-18 -fPIC  -g -O0 -frtti -shared -Wl,-soname,VmpPass.so -o VmpPass.so CMakeFiles/VmpPass.dir/Pass.cpp.o CMakeFiles/VmpPass.dir/XXXVMPCTX.cpp.o  /usr/lib/llvm-18/lib/libLLVM-18.so.1 

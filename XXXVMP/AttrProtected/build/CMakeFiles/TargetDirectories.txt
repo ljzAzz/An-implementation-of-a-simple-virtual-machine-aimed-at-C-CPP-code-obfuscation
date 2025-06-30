@@ -1,0 +1,8 @@
+/home/ljz/XXXVMP/AttrProtected/build/CMakeFiles/intrinsics_gen.dir
+/home/ljz/XXXVMP/AttrProtected/build/CMakeFiles/omp_gen.dir
+/home/ljz/XXXVMP/AttrProtected/build/CMakeFiles/acc_gen.dir
+/home/ljz/XXXVMP/AttrProtected/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/ljz/XXXVMP/AttrProtected/build/CMakeFiles/clang-tablegen-targets.dir
+/home/ljz/XXXVMP/AttrProtected/build/CMakeFiles/AttrPlugin.dir
+/home/ljz/XXXVMP/AttrProtected/build/CMakeFiles/edit_cache.dir
+/home/ljz/XXXVMP/AttrProtected/build/CMakeFiles/rebuild_cache.dir

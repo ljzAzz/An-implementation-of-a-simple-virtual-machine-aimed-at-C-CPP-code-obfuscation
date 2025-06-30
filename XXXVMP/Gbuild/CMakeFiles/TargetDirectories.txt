@@ -1,0 +1,8 @@
+/home/ljz/XXXVMP/Gbuild/CMakeFiles/intrinsics_gen.dir
+/home/ljz/XXXVMP/Gbuild/CMakeFiles/omp_gen.dir
+/home/ljz/XXXVMP/Gbuild/CMakeFiles/acc_gen.dir
+/home/ljz/XXXVMP/Gbuild/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/ljz/XXXVMP/Gbuild/CMakeFiles/clang-tablegen-targets.dir
+/home/ljz/XXXVMP/Gbuild/CMakeFiles/GenStubPlugin.dir
+/home/ljz/XXXVMP/Gbuild/CMakeFiles/edit_cache.dir
+/home/ljz/XXXVMP/Gbuild/CMakeFiles/rebuild_cache.dir

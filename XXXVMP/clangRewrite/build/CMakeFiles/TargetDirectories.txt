@@ -1,0 +1,8 @@
+/home/ljz/XXXVMP/clangRewrite/build/CMakeFiles/intrinsics_gen.dir
+/home/ljz/XXXVMP/clangRewrite/build/CMakeFiles/omp_gen.dir
+/home/ljz/XXXVMP/clangRewrite/build/CMakeFiles/acc_gen.dir
+/home/ljz/XXXVMP/clangRewrite/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/ljz/XXXVMP/clangRewrite/build/CMakeFiles/clang-tablegen-targets.dir
+/home/ljz/XXXVMP/clangRewrite/build/CMakeFiles/FunctionCallRewriter.dir
+/home/ljz/XXXVMP/clangRewrite/build/CMakeFiles/edit_cache.dir
+/home/ljz/XXXVMP/clangRewrite/build/CMakeFiles/rebuild_cache.dir

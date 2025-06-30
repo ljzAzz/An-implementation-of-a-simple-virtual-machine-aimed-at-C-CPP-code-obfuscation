@@ -1,0 +1,8 @@
+/home/ljz/XXXVMP/Cbuild/CMakeFiles/intrinsics_gen.dir
+/home/ljz/XXXVMP/Cbuild/CMakeFiles/omp_gen.dir
+/home/ljz/XXXVMP/Cbuild/CMakeFiles/acc_gen.dir
+/home/ljz/XXXVMP/Cbuild/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/ljz/XXXVMP/Cbuild/CMakeFiles/clang-tablegen-targets.dir
+/home/ljz/XXXVMP/Cbuild/CMakeFiles/ExternCollectorPlugin.dir
+/home/ljz/XXXVMP/Cbuild/CMakeFiles/edit_cache.dir
+/home/ljz/XXXVMP/Cbuild/CMakeFiles/rebuild_cache.dir

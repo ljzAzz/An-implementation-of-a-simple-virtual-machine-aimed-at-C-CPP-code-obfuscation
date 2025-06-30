@@ -1,0 +1,7 @@
+/home/ljz/XXXVMP/build/CMakeFiles/intrinsics_gen.dir
+/home/ljz/XXXVMP/build/CMakeFiles/omp_gen.dir
+/home/ljz/XXXVMP/build/CMakeFiles/acc_gen.dir
+/home/ljz/XXXVMP/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/ljz/XXXVMP/build/CMakeFiles/VmpPass.dir
+/home/ljz/XXXVMP/build/CMakeFiles/edit_cache.dir
+/home/ljz/XXXVMP/build/CMakeFiles/rebuild_cache.dir
